@@ -1,0 +1,15 @@
+global_title="Rewire"
+global_description="The next generation chat app."
+# global_url="/"
+
+# global_author="youngchief btw ツ"
+# global_author_url="https://ycws.vercel.app" 
+# global_email="youngchief /a/ youngchief /d/ tk"
+
+global_license="&copy;"
+
+footer_file="footer.html"
+
+blog_feed="blog.rss"
+
+html_exclude=('body_begin_file_index.html' 'header.html' 'footer.html')
